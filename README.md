@@ -45,4 +45,3 @@ Este código en Python implementa las cinco técnicas de partición de datos y m
 4. Muestra un gráfico para cada técnica que representa los datos de entrenamiento (en azul) y de prueba (en rojo) en dos características específicas.
 5. Cada técnica se muestra en un gráfico numerado para una fácil identificación.
 
-Este código es una herramienta útil para comprender cómo se pueden implementar diferentes técnicas de partición de datos en el aprendizaje automático y cómo afectan a la distribución de los datos de entrenamiento y prueba. Puede ser personalizado y ampliado para adaptarse a necesidades específicas de proyectos de clasificación y modelado predictivo.
