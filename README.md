@@ -1,7 +1,7 @@
 # ParticionDeInformacion
 
 
-Este proyecto demuestra cinco técnicas de partición de datos utilizadas en el aprendizaje automático, junto con ejemplos de implementación. Cada técnica se elige en función de las necesidades y la naturaleza de los datos. A continuación, se describen las técnicas y sus beneficios:
+Este programa demuestra cinco técnicas de partición de datos utilizadas en el aprendizaje automático, junto con ejemplos de implementación. Cada técnica se elige en función de las necesidades y la naturaleza de los datos. A continuación, se describen las técnicas y sus beneficios:
 
 ## Técnicas de Partición
 
